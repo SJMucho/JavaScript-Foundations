@@ -3,9 +3,10 @@
 // 🏡 Task 1: Variables
 /* Create variables for principal, interest rate, and years. Assign them the values 200000, 0.05, and 30 respectively. Create another value called name and give it the value of your own name.
 */
-
-
-
+let principle = 200000;
+let InterestRate = 0.05;
+let years = 30;
+const name = Sarah; 
 
 
 // 🏡 Task 1.5: Simple Math
@@ -14,9 +15,10 @@
 Create a variable called `monthlyInterestRate` and give it the value of interest rate divided by 12. 
 
 Create another variable called `periods` and give it the value of years*12.
-*/
+*//
 
-
+let InterestRate = (InterestRate / 12); 
+let periods = (year * 12);
 
 
 // 🏡 Task 2: Harder Math
