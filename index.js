@@ -15,10 +15,10 @@ const name = Sarah;
 Create a variable called `monthlyInterestRate` and give it the value of interest rate divided by 12. 
 
 Create another variable called `periods` and give it the value of years*12.
-*//
+*/
 
-let InterestRate = (InterestRate / 12); 
-let periods = (year * 12);
+let monthlyInterestRate = (InterestRate / 12); 
+let periods = (years * 12);
 
 
 // 🏡 Task 2: Harder Math
@@ -40,8 +40,9 @@ When your math is correct, monthlyRate will equal 1073.64
 If your name is `Oscar` mortgageCalculator() should return "Oscar, your monthly rate is 1073.64"
 */
 
-
-
+function greet(name) {
+      console.log('Sarah' + 'your monthly mortgage rate is');
+     }
 
 
 // 🏡 Task 4: Arguments and Parameters
